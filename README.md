@@ -6,7 +6,7 @@ A high-performance convolutional neural network (CNN) framework implemented **fr
 
 ---
 
-## 🔥 Key Features  
+##  Key Features  
 - **GPU Acceleration**: Leverages CuPy for **10x speedup** over NumPy on MNIST.  
 - **Custom Autograd**: Hybrid CuPy/PyTorch implementation for **correct gradient computation**.  
 - **From-Scratch Innovations**:  
