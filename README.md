@@ -18,5 +18,5 @@ A high-performance convolutional neural network (CNN) framework implemented **fr
 ---
 
 - Follow My Socials
-- twitter - https://x.com/akumaswrldd
-- linkedin - https://www.linkedin.com/in/assem-m-barki-86b68b304/
+- Twitter - https://x.com/akumaswrldd
+- LinkedIn - https://www.linkedin.com/in/assem-m-barki-86b68b304/
