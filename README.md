@@ -1,4 +1,4 @@
-# 🚀 CNN: A GPU-Accelerated CNN Framework from Scratch  
+# 🚀 nanoCNN: A GPU-Accelerated CNN Framework from Scratch  
 
 **No PyTorch. No TensorFlow. Just NumPy, CuPy, and math.**  
 
@@ -16,3 +16,7 @@ A high-performance convolutional neural network (CNN) framework implemented **fr
 - **Educational**: Clean, modular code with **derivation notes** in comments.  
 
 ---
+
+Follow My Socials
+twitter - https://x.com/akumaswrldd
+linkedin - https://www.linkedin.com/in/assem-m-barki-86b68b304/
